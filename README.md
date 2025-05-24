@@ -1,4 +1,4 @@
-# [Dataset Name] — Persian Aspect-Based Sentiment Analysis (ABSA) Dataset Using GPT
+# [PABSA-GPT] — Persian Aspect-Based Sentiment Analysis (ABSA) Dataset Using GPT
 
 This is a publicly available Persian dataset for **Aspect-Based Sentiment Analysis (ABSA)** generated and labeled using GPT-based models. It is designed for researchers and developers working on sentiment analysis, natural language processing (NLP), and Persian language understanding.
 
@@ -32,3 +32,13 @@ If you use this dataset in your research or project, please cite the following p
   url={}
 }
 ```
+##🔓 License
+This dataset is licensed under the Creative Commons Attribution 1.0 License (CC BY 1.0).
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format.
+
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+As long as you give appropriate credit by citing the paper listed above.
