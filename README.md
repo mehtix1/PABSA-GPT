@@ -10,7 +10,7 @@ To ensure label quality and reliability, the dataset was **tested and validated 
 
 - **Language**: Persian (Farsi)
 - **Task**: Aspect-Based Sentiment Analysis (ABSA)
-- **Data Source**: [e.g., Product reviews]
+- **Data Source**: [Product reviews]
 - **Annotation**: Labeled using GPT-based models with manual verification.
 - **Format**:  CSV 
 
