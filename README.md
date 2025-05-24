@@ -20,7 +20,7 @@ Each entry in the dataset contains:
 
 ---
 
-##📚 Citation
+## 📚 Citation
 
 If you use this dataset in your research or project, please cite the following paper:
 ```bash
@@ -32,7 +32,7 @@ If you use this dataset in your research or project, please cite the following p
   url={}
 }
 ```
-##🔓 License
+## 🔓 License
 This dataset is licensed under the Creative Commons Attribution 1.0 License (CC BY 1.0).
 
 You are free to:
